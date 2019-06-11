@@ -72,7 +72,7 @@ Continuing with #100DaysOfMLCode today I went through the Naive Bayes classifier
 I am also implementing the SVM in python using scikit-learn. Will update the code soon.
 
 ## Implementation of SVM | Day 14
-Today I implemented SVM on linearly related data. Used Scikit-Learn library. In Scikit-Learn we have SVC classifier which we use to achieve this task. Will be using kernel-trick on next implementation.
+Today I implemented SVM on linearly related data. I Used Scikit-Learn library. In Scikit-Learn we have SVC classifier which we used to achieve this task. Will be using kernel-trick on next implementation.
 Check the code [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%2013%20SVM.md).
 
 ## Naive Bayes Classifier and Black Box Machine Learning | Day 15
@@ -97,7 +97,7 @@ Completed the Week 1 of Improving Deep Neural Networks: Hyperparameter tuning, R
 Watched some tutorials on how to do web scraping using Beautiful Soup in order to collect data for building a model.
 
 ## Is Learning Feasible? | Day 22
-Lecture 2 of 18 of Caltech's Machine Learning Course - CS 156 by Professor Yaser Abu-Mostafa. Learned about Hoeffding Inequality.
+Lecture 2 of 18 of Caltech's Machine Learning Course - CS 156 by Professor Yaser Abu-Mostafa. Learned about Hoeffding Inequality. 
 
 ## Decision Trees | Day 23
 <p align="center">
